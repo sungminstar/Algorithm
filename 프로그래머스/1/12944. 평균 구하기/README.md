@@ -1,6 +1,6 @@
 # [level 1] 평균 구하기 - 12944 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12944?language=python3) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12944) 
 
 ### 성능 요약
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 02월 05일 13:45:04
+2026년 02월 08일 18:20:34
 
 ### 문제 설명
 
